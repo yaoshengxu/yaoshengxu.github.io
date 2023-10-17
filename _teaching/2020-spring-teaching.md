@@ -1,7 +1,7 @@
 ---
 title: "ORIE 3510: Introduction to Engineering Stochastic Processes I"
 collection: teaching
-type: "undegrad and grad"
+type: "Undegraduate and graduate course"
 permalink: /teaching/2020-spring-teaching
 venue: "Cornell University, ORIE"
 date: 2020-01-23
