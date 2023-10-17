@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publication"
+title: "Publications"
 permalink: /publication/
 author_profile: true
 redirect_from:
@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Publications
 ======
 * J.G. Dai and Yaosheng Xu.
 Explicit Steady-state Approximations for Parallel-server Systems. Working paper
