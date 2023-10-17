@@ -5,5 +5,5 @@ excerpt:
 date: '2023-01-01'
 venue: 'Under Review'
 paperurl: 'https://arxiv.org/abs/2304.01499'
-citation: ''
+citation: 'arXiv:2304.01499 [math.PR]'
 ---
