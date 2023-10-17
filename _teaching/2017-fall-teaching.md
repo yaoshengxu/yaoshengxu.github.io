@@ -8,4 +8,4 @@ date: 2017-08-24
 location: "Ithaca, NY"
 ---
 
-Teaching Assistant. Also supervised this course on 2018 Fall and 2019 Spring Semester.
+Teaching Assistant. Supervised this course on 2017 Fall, also 2018 Fall and 2019 Spring Semester.
