@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Statistics, Shandong University, 2014
-* M.S. in Probability and Mathematical Statistics, Shandong University, 2017
 * Ph.D in Statistics, Cornell University, 2022
+* M.S. in Probability and Mathematical Statistics, Shandong University, 2017
+* B.S. in Statistics, Shandong University, 2014
 
 Work experience
 ======
@@ -26,9 +26,10 @@ browse, detail page, etc; design evaluation metrics to enables content providers
   * Amazon.com. Intern.
   * Develop a Position Effect Model to estimate the causal effect of the positions of items displayed on search page, on the probability of purchases/clicks; a novel technique for de-biasing causal parameters in high dimensional models is applied to recover more accurate position effect; model implementation is designed for algorithmic improvement which works 5x faster than the open source algorithms (python(sklearn) and R(glm)); improve ranking efficiency and user experience
   
-RESEARCH INTERESTS AND SKILLS
+Research Interests and Skills
 ======
-* Queueing Model, Resource Allocations in Stochastic Networks, Stochastic Processes, High-dimensional Statistics, Causal Inference, Distributed computing(spark), Statistical Distance for Machine learning, Rein- forcement Learning, Stochastic Online Learning, Mathematical Programming, Statistical Computing, Model Selection and Regularization, Generalized Linear Model, Stochastic Fluid/Diffusion Models, Experimental Design
+* Queueing Model, Resource Allocations in Stochastic Networks, Stochastic Processes, High-dimensional Statistics, Causal Inference,
+* Distributed computing(spark), Statistical Distance for Machine learning, Reinforcement Learning, Mathematical Programming, Stochastic Fluid/Diffusion Models
 * Programming Language
   * Python
   * R
@@ -62,8 +63,8 @@ Talks
 Teaching
 ======
 Supervised courses as Teaching Assistant at Cornell University
-• STSCI/BTRY 3080: Probability Models and Inference
-• ORIE 3510: Introduction to Engineering Stochastic Processes I • STSCI 4740: Data Mining and Machine Learning
-• BTRY 6020: Statistical Methods II
-• STSCI 2150: Introductory Statistics for Biology
+* STSCI/BTRY 3080: Probability Models and Inference
+* ORIE 3510: Introduction to Engineering Stochastic Processes I • STSCI 4740: Data Mining and Machine Learning
+* BTRY 6020: Statistical Methods II
+* STSCI 2150: Introductory Statistics for Biology
   
