@@ -7,3 +7,4 @@ venue: "Cornell University, ORIE"
 date: 2020-01-23
 location: "Ithaca, NY"
 ---
+Teaching Assistant. 
