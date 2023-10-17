@@ -1,7 +1,7 @@
 ---
 title: "Multi-scale heavy traffic steady-state convergence in generalized Jackson network"
 collection: publications
-excerpt: 'Major revision.'
+excerpt: 
 date: '2023-01-01'
 venue: 'Under Review'
 paperurl: 'https://arxiv.org/abs/2304.01499'
