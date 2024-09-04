@@ -191,6 +191,13 @@ collections:
 
 # Defaults
 defaults:
+# search by google
+  - scope:
+      path: ""
+    values:
+      description: "Yaosheng Xu's personal website."
+      keywords: "research, publications, academic, personal website"
+      robots: "index, follow"
   # _posts
   - scope:
       path: ""
