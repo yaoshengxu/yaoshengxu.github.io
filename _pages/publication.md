@@ -14,7 +14,7 @@ redirect_from:
 * Baris Ata and Yaosheng Xu. 
 Dynamic control of stochastic matching systems in heavy traffic: An effective computational method for high-dimensional problems. Work in progress. 
 
-* J.G. Dai and Yaosheng Xu.
+* Yaosheng Xu.
 Explicit Steady-State Approximations for Parallel Server Systems with Heterogeneous Servers. Work in Progress. [Link](https://arxiv.org/abs/2406.04203)
 
 **Journal papers**
