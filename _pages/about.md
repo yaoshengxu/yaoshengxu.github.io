@@ -8,8 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Principal Researcher at University of Chicago Booth School of Business, under the supervision of [Baris Ata](https://www.chicagobooth.edu/faculty/directory/a/baris-ata). I obtained my Ph.D in Statisctics at Cornell University, advised by [Jim Dai](https://people.orie.cornell.edu/jdai/). Prior to that, I received M.S. in Probability and Mathematical Statistics, B.S. in Mathematics(Statistics) from Shandong University. From 2022 to 2024, I worked as an Applied Scientist at [Amazon.com](amazon.com).
+I am currently a Principal Researcher at the University of Chicago Booth School of Business, working with [Baris Ata](https://www.chicagobooth.edu/faculty/directory/a/baris-ata). I obtained my Ph.D. in Statistics from Cornell University, where I was advised by [Jim Dai](https://people.orie.cornell.edu/jdai/). From 2022 to 2024, I worked as an Applied Scientist II at [Amazon.com](amazon.com).
 
-My research interests lies in the theory of stochastic networks, focusing on the steady-state performance approximation in the heavy traffic regime; resource allocations in processing networks; high-dimensional statistics. I have been developing BAR approach that works directly with the stationary distribution of each pre-limit system, instead of proving a stochastic process limit followed by a limit interchange – a method that dominates the literature. We are the first to study the product form limit under generalized Jackson Network under the multi-scale heavy traffic regime. We are the first to study the steady-state approximation under weighted-workload-task-allocation (WWTA) policy in the general parallel-server network with heterogeneous servers. 
+**I will be on the academic job market in 2025–2026.**
+
+My research interests lie in stochastic networks and queueing theory, with a focus on steady-state performance analysis and stochastic control in the heavy-traffic regime. We pioneered the notion of the **multi-scale heavy-traffic** regime, and were the first to study the **product-form limit for generalized Jackson networks** under this setting. I also work on resource allocation in **parallel-server** processing networks, studying the steady-state approximations in general parallel-server networks with heterogeneous servers and class-dependent service rates.
+
+I have been developing the **BAR (Basic Adjoint Relationship)** approach that works directly with the stationary distribution of each pre-limit system, rather than proving a stochastic process limit followed by a limit interchange – a method that dominates the literature.
+
+I also work on **stochastic matching in high-dimensional** settings. We design dynamic matching policies via drift control that balance matching value and congestion-related costs in the long run. Derived from a tractable approximation, our formulation is tailored for large-scale matching markets—such as ride-hailing and labor platforms—where high-dimensional control is critical but remains largely unexplored in the literature. 
 
 
