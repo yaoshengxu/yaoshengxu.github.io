@@ -34,6 +34,6 @@ redirect_from:
 *Dynamic control of stochastic matching systems in heavy traffic: An effective computational method for high-dimensional problems.*<br> Work in progress. 
 
 * Yaosheng Xu.<br>
-*Explicit Steady-State Approximations for Parallel Server Systems with Heterogeneous Servers.* Work in Progress. [Link]<br>(https://arxiv.org/abs/2406.04203)
+*Explicit Steady-State Approximations for Parallel Server Systems with Heterogeneous Servers.* Work in Progress.<br> [Link](https://arxiv.org/abs/2406.04203)
 
 
