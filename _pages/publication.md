@@ -9,6 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
+**Working papers**
+
+* Baris Ata and Yaosheng Xu. <br>
+*Dynamic control of stochastic matching systems in heavy traffic: An effective computational method for high-dimensional problems.* Work in progress. 
+
+* Yaosheng Xu.<br>
+*Explicit Steady-State Approximations for Parallel Server Systems with Heterogeneous Servers.* Work in Progress. [Link](https://arxiv.org/abs/2406.04203)
+
 **Journal papers**
 
 * J.G. Dai, Peter Glynn and Yaosheng Xu.<br>
@@ -28,12 +36,6 @@ redirect_from:
 *Intertemporal optimal portfolio choice based on labor income within shadow costs of incomplete information and short sales.*<br>
 **Annals of Operations Research**, 281: 397–422, 2019. [Link](https://link.springer.com/article/10.1007/s10479-018-2901-4)
 
-**Working papers**
 
-* Baris Ata and Yaosheng Xu. <br>
-*Dynamic control of stochastic matching systems in heavy traffic: An effective computational method for high-dimensional problems.* Work in progress. 
-
-* Yaosheng Xu.<br>
-*Explicit Steady-State Approximations for Parallel Server Systems with Heterogeneous Servers.* Work in Progress. [Link](https://arxiv.org/abs/2406.04203)
 
 
