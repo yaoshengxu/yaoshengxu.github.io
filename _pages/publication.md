@@ -12,13 +12,8 @@ redirect_from:
 **Working papers**
 
 * Baris Ata and Yaosheng Xu. <br>
-*Dynamic Dispatch and Relocation Control for Ride-Hailing Systems Incorporating Travel Times.*<br>
-Work in progress. 
- 
-**Publications and Preprints**
-* Baris Ata and Yaosheng Xu. <br>
 *Dynamic Control of a Stochastic Matching System in Heavy Traffic: An Effective Computational Method for High-Dimensional Problems.*<br>
-Under review at **Management Science**. [Link]()
+Under review at **Management Science**. [Link](https://arxiv.org/abs/2509.00809)
 
 * Yaosheng Xu.<br>
   Explicit Steady-State Approximations for Parallel Server Systems with Heterogeneous Servers.*<br>
@@ -27,6 +22,9 @@ Under review at **Operations Research**. [Link](https://arxiv.org/abs/2406.04203
 * J.G. Dai, Peter Glynn and Yaosheng Xu.<br>
 *Multi-scale heavy traffic steady-state convergence in generalized Jackson network.*<br>
 **Operations Research**, Minor revision. [Link](https://arxiv.org/abs/2304.01499)
+
+
+**Publications**
 
 * J.G. Dai, Jin Guang and Yaosheng Xu. <br>
 *Steady-State Convergence of the Continuous-Time Routing System with General Distributions in Heavy Traffic.*<br>
