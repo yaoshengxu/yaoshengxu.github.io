@@ -29,7 +29,7 @@ Under review at **Operations Research**. [Link](https://arxiv.org/abs/2406.04203
 * J.G. Dai, Jin Guang and Yaosheng Xu. <br>
 *Steady-State Convergence of the Continuous-Time Routing System with General Distributions in Heavy Traffic.*<br>
 **ACM Sigmetrics 2025**. 9(1): 1–29.  [Link](https://dl.acm.org/doi/10.1145/3711703).<br>
-  A short version is accepted at Workshop on MAthematical performance Modeling and Analysis (MAMA) of ACM Sigmetrics 2024. [link] [Link](https://arxiv.org/pdf/2405.10876)
+  A short version is accepted at Workshop on MAthematical performance Modeling and Analysis (MAMA) of ACM Sigmetrics 2024. [Link](https://dl.acm.org/doi/10.1145/3695411.3695426)
 
 * Xin Bing, Yang Ning and Yaosheng Xu.<br>
 *Adaptive estimation of multivariate regression with hidden variables.*<br>
