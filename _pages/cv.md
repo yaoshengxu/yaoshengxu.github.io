@@ -12,26 +12,20 @@ redirect_from:
 Education
 ======
 * Ph.D in Statistics, Cornell University, 2022
+* M.S. in Statistics, Cornell University, 2020
 * M.S. in Probability and Mathematical Statistics, Shandong University, 2017
 * B.S. in Statistics, Shandong University, 2014
 
 Work experience
 ======
-* 06/2024 – present: Principal researcher
+* Principal researcher. 06/2024 – present
   * University of Chicago, Booth School of Business. Full-time.
 
-* 08/2022 – 05/2024: Applied Scientist
+* Applied Scientist. 08/2022 – 05/2024
   * Amazon.com. Full-time.
 
-* 06/2021 – 08/2021: Applied Scientist 
+* Applied Scientist. 06/2021 – 08/2021
   * Amazon.com. Intern.
-  
-Research Interests and Skills
-======
-* Queueing Model, Stochastic Matching, Performance Analysis, Fluid/Diffusion Models, Resource Allocations in Stochastic Networks, High-dimensional Statistics
- 
-* Programming Language
-  * Python, C++, R, Matlab
 
 Publications and Preprints
 ======
@@ -71,12 +65,24 @@ Talks
 * INFORMS Annual meeting. Seattle, WA. October 20-23, 2024.
 * INFORMS Annual meeting. Anaheim, CA. October 24-27, 2021.
 * Fields-China Joint Industrial Problem Solving Workshop in Finance. Toronto, ON. May 8-12, 2017.
-  
+
+Research Interests and Skills
+======
+* Operations Research and Management
+  * Stochastic Processing Networks, Dynamic Matching in High Dimensions, Stochastic Diffusion Control, Queueing Theory,  Steady-State Performance Analysis, Multi-Scale Heavy Traffic, Load Balancing Systems. 
+
+* Statistics and Data Science
+  * High-Dimensional Statistics, Multivariate Analysis, Causal Inference, Model Selection and Regularization, Experimental Design.
+    
+* Programming Languages
+  * Python, C++, R, Matlab
+    
 Teaching
 ======
 Supervised courses as Teaching Assistant at Cornell University
 * STSCI/BTRY 3080: Probability Models and Inference
-* ORIE 3510: Introduction to Engineering Stochastic Processes I • STSCI 4740: Data Mining and Machine Learning
-* BTRY 6020: Statistical Methods II
+* ORIE 3510/5510: Introduction to Engineering Stochastic Processes 
+* STSCI 4740: Data Mining and Machine Learning  
+* BTRY 6020: Statistical Methods 
 * STSCI 2150: Introductory Statistics for Biology
   
