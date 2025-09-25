@@ -30,10 +30,10 @@ Work experience
 Publications and Preprints
 ======
 * Baris Ata and Yaosheng Xu. 
-Dynamic Control of a Stochastic Matching System in Heavy Traffic: An Effective Computational Method for High-Dimensional Problems. Under review at **Management Science** [Link](https://arxiv.org/abs/2509.00809)
+Dynamic Control of a Stochastic Matching System in Heavy Traffic: An Effective Computational Method for High-Dimensional Problems. Under review at **Management Science**. [Link](https://arxiv.org/abs/2509.00809)
 
 * Yaosheng Xu.
-Explicit Steady-State Approximations for Parallel Server Systems with Heterogeneous Servers. Under review at **Operations Research** [Link](https://arxiv.org/abs/2406.04203)
+Explicit Steady-State Approximations for Parallel Server Systems with Heterogeneous Servers. Under review at **Operations Research**. [Link](https://arxiv.org/abs/2406.04203)
 
 * J.G. Dai, Peter Glynn and Yaosheng Xu.
 Multi-scale heavy traffic steady-state convergence in generalized Jackson network. **Operations Research**, Minor Revision. [Link](https://arxiv.org/abs/2304.01499)
@@ -42,10 +42,10 @@ Multi-scale heavy traffic steady-state convergence in generalized Jackson networ
 Steady-State Convergence of the Continuous-Time Routing System with General Distributions in Heavy Traffic. **ACM Sigmetrics 2025**. 9(1): 1–29.  [Link](https://dl.acm.org/doi/10.1145/3711703)
 
 * J.G. Dai, Jin Guang and Yaosheng Xu. 
-Steady-State Convergence of the Continuous-Time JSQ System with General Distributions in Heavy Traffic. **Workshop on MAthematical performance Modeling and Analysis (MAMA)** of ACM Sigmetrics 2024. [link] [Link](https://arxiv.org/pdf/2405.10876)
+Steady-State Convergence of the Continuous-Time JSQ System with General Distributions in Heavy Traffic. **Workshop on MAthematical performance Modeling and Analysis (MAMA)** of ACM Sigmetrics 2024. [Link](https://dl.acm.org/doi/10.1145/3695411.3695426)
 
 * Xin Bing, Yang Ning and Yaosheng Xu.
-Adaptive estimation of multivariate regression with hidden variables. **Annals of Statistics**, 50(2): 640–672, 2022. [Link](https://projecteuclid.org/journals/annals-of-statistics/volume-50/issue-2/Adaptive-estimation-in-multivariate-response-regression-with-hidden-variables/10.1214/21-AOS2059.short)
+Adaptive estimation of multivariate regression with hidden variables. **Annals of Statistics**, 50(2): 640–672, 2022. [Link](https://projecteuclid.org/journals/annals-of-statistics/volume-50/issue-2/Adaptive-estimation-in-multivariate-response-regression-with-hidden-variables/10.1214/21-AOS2059.full)
 
 * Mondher Bellalah, Yaosheng Xu, Detao Zhang.
 Intertemporal optimal portfolio choice based on labor income within shadow costs of incomplete information and short sales.
