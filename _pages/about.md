@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Principal Researcher at the University of Chicago Booth School of Business, working with [Baris Ata](https://www.chicagobooth.edu/faculty/directory/a/baris-ata). I obtained my Ph.D. in Statistics from Cornell University, where I was advised by [Jim Dai](https://people.orie.cornell.edu/jdai/). From 2022 to 2024, I worked as an Applied Scientist II at [Amazon.com](amazon.com).
+I am currently a Principal Researcher at the University of Chicago Booth School of Business, working with [Baris Ata](https://www.chicagobooth.edu/faculty/directory/a/baris-ata). I obtained my Ph.D. in Statistics from Cornell University, where I was advised by [Jim Dai](https://people.orie.cornell.edu/jdai/). From 2022 to 2024, I worked as an Applied Scientist II at [amazon.com](https://www.amazon.com).
 
 <p style="text-align: center; background-color: #fff4d4; padding: 10px; font-weight: bold; font-size: 1.1em;">
 📢 I will be on the academic job market in 2025–2026.
