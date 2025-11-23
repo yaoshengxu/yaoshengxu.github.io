@@ -11,11 +11,13 @@ redirect_from:
 I am currently a Principal Researcher at the University of Chicago Booth School of Business, working with [Baris Ata](https://www.chicagobooth.edu/faculty/directory/a/baris-ata). I obtained my Ph.D. in Statistics from Cornell University, where I was advised by [Jim Dai](https://people.orie.cornell.edu/jdai/). From 2022 to 2024, I worked as an Applied Scientist II at [amazon.com](https://www.amazon.com).
 
 <p style="text-align: center; background-color: #fff4d4; padding: 10px; font-weight: bold; font-size: 1.1em;">
-📢 I will be on the academic job market in 2025–2026.
+📢 I am on the academic job market in 2025–2026.
 </p>
 
-My research interests lie in stochastic networks and queueing theory, with a focus on steady-state performance analysis and stochastic control in the heavy-traffic regime. We pioneered the notion of the **multi-scale heavy-traffic** regime, and were the first to study the **product-form limit for generalized Jackson networks** under this setting. I also study resource allocation in **parallel-server** processing networks, focusing on steady-state approximations under heterogeneous servers and class-dependent service rates.
+My research lies broadly in **stochastic optimization and control**, with an emphasis on **stochastic networks and queueing theory**. I study steady-state performance and diffusion control, particularly in heavy-traffic regimes. We introduced the notion of **multi-scale heavy traffic** and established the **first product-form** limits for generalized Jackson networks under this regime. I also work on resource allocation in parallel-server systems, focusing on steady-state approximations with heterogeneous servers and class-dependent service rates.
 
-I also work on **stochastic matching in high-dimensional** settings. We design dynamic matching policies via a tractable formulation that balances matching value and congestion costs in large-scale markets—such as ride-hailing and labor platforms—where high-dimensional control is critical but remains largely unexplored in the literature.
+I also work on **stochastic matching in high-dimensional settings**. I design dynamic matching policies through tractable approximations that balance matching value and congestion costs in large markets - such as ride-hailing and labor platforms - where high-dimensional control is essential and remains relatively underexplored in the literature.
+
+A more recent direction of interest is **LLM inference** viewed through the lens of stochastic networks. Modern LLM serving systems function as large-scale service networks involving batching, routing, and congestion under tight latency constraints. Many of the mathematical tools developed for queueing networks and heavy-traffic control provide a natural framework for understanding and improving the efficiency of large-model inference.
 
 
