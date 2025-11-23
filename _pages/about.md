@@ -14,10 +14,10 @@ I am currently a Principal Researcher at the University of Chicago Booth School 
 📢 I am on the academic job market in 2025–2026.
 </p>
 
-My research lies broadly in **stochastic optimization and control**, with an emphasis on **stochastic networks and queueing theory**. I study steady-state performance and diffusion control, particularly in heavy-traffic regimes. We introduced the notion of **multi-scale heavy traffic** and established the **first product-form** limits for generalized Jackson networks under this regime. I also work on resource allocation in parallel-server systems, focusing on steady-state approximations with heterogeneous servers and class-dependent service rates.
+My research lies broadly in **stochastic optimization and control**, with an emphasis on **stochastic networks and queueing theory**. I study steady-state performance and diffusion control, particularly in heavy-traffic regimes. We pinoneered the notion of **multi-scale heavy traffic** and established the first **product-form limits** for generalized Jackson networks under this regime. I work on resource allocation in parallel-server systems, focusing on steady-state approximations with heterogeneous servers and class-dependent service rates.
 
 I also work on **stochastic matching in high-dimensional settings**. I design dynamic matching policies through tractable approximations that balance matching value and congestion costs in large markets - such as ride-hailing and labor platforms - where high-dimensional control is essential and remains relatively underexplored in the literature.
 
-A more recent direction of interest is **LLM inference** viewed through the lens of stochastic networks. Modern LLM serving systems function as large-scale service networks involving batching, routing, and congestion under tight latency constraints. Many of the mathematical tools developed for queueing networks and heavy-traffic control provide a natural framework for understanding and improving the efficiency of large-model inference.
+A more recent direction of interest is **LLM inference** viewed through the lens of stochastic networks. Modern LLM serving systems operate as large-scale service networks with batching, routing, and congestion under tight latency constraints. I am developing heavy-traffic approximations and queueing-based control to analyze and improve inference efficiency at scale.
 
 
