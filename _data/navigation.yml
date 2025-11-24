@@ -10,7 +10,7 @@ main:
     url: /teaching/    
    
   - title: "CV"
-    url: /cv/
+    url: /assets/files/cv.pdf
     
   - title: "Contact"
     url: /markdown/
