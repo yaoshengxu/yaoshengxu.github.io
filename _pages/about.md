@@ -18,6 +18,6 @@ My research lies broadly in **stochastic optimization and control**, with an emp
 
 I also work on **stochastic matching in high-dimensional settings**. I design dynamic matching policies through tractable approximations that balance matching value and congestion costs in large markets - such as ride-hailing and labor platforms - where high-dimensional control is essential and remains relatively underexplored in the literature.
 
-A more recent direction of interest is **LLM inference** viewed through the lens of stochastic networks. Modern LLM serving systems operate as large-scale service networks with batching, routing, and congestion under tight latency constraints. I am developing heavy-traffic approximations and queueing-based control to analyze and improve inference efficiency at scale.
+A recent direction of interest is **LLM inference** viewed through the lens of stochastic networks. Modern LLM serving systems operate as large-scale service networks with batching, routing, and congestion under tight latency constraints. I am developing heavy-traffic approximations and queueing-based control to analyze and improve inference efficiency at scale.
 
 
