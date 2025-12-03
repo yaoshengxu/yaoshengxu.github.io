@@ -13,7 +13,7 @@ redirect_from:
 
 * Baris Ata and Yaosheng Xu. <br>
 *Dynamic Control of a Stochastic Matching System in Heavy Traffic: An Effective Computational Method for High-Dimensional Problems.*<br>
-Under review at **Management Science**. [Link](https://arxiv.org/abs/2509.00809)
+Under review at **Operations Research**. [Link](https://arxiv.org/abs/2509.00809)
 
 * Yaosheng Xu.<br>
   Explicit Steady-State Approximations for Parallel Server Systems with Heterogeneous Servers.*<br>
