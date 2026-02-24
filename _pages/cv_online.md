@@ -36,7 +36,7 @@ Dynamic Control of a Stochastic Matching System in Heavy Traffic: An Effective C
 Explicit Steady-State Approximations for Parallel Server Systems with Heterogeneous Servers. Under review at **Operations Research**. [Link](https://arxiv.org/abs/2406.04203)
 
 * J.G. Dai, Peter Glynn and Yaosheng Xu.
-Multi-scale heavy traffic steady-state convergence in generalized Jackson network. **Operations Research**, Minor Revision. [Link](https://arxiv.org/abs/2304.01499)
+Multi-scale heavy traffic steady-state convergence in generalized Jackson network. Accepted at **Operations Research**. [Link](https://arxiv.org/abs/2304.01499)
 
 * Jin Guang, Yaosheng Xu, and J. G. Dai. 
 Steady-State Convergence of the Continuous-Time Routing System with General Distributions in Heavy Traffic. **ACM Sigmetrics 2025**. 9(1): 1–29.  [Link](https://dl.acm.org/doi/10.1145/3711703)
