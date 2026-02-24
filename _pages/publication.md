@@ -21,7 +21,7 @@ Under review at **Operations Research**. [Link](https://arxiv.org/abs/2406.04203
 
 * J.G. Dai, Peter Glynn and Yaosheng Xu.<br>
 *Multi-scale heavy traffic steady-state convergence in generalized Jackson network.*<br>
-**Operations Research**, Minor revision. [Link](https://arxiv.org/abs/2304.01499)
+Accepted at **Operations Research**. [Link](https://arxiv.org/abs/2304.01499)
 
 
 **Publications**
