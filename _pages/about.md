@@ -8,10 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in the Department of Industrial and Enterprise Systems Engineering at the **University of Illinois Urbana-Champaign**. Prior to joining Illinois, I was a Principal Researcher at the University of Chicago Booth School of Business, where I worked with [Baris Ata](https://www.chicagobooth.edu/faculty/directory/a/baris-ata). I obtained my Ph.D. in Statistics from Cornell University, where I was advised by [Jim Dai](https://people.orie.cornell.edu/jdai/). From 2022 to 2024, I worked as an Applied Scientist II at [Amazon](https://www.amazon.com).
+### About Me
 
-My research focuses on **stochastic modeling and control of complex service systems**, with an emphasis on **queueing theory, stochastic networks, and high-dimensional control**. I study their steady-state behavior and dynamic control, particularly in heavy-traffic regimes, using stochastic-process theory and computational methods. Applications include dynamic matching, data centers, and LLM serving systems.
+I am an Assistant Professor in the Department of Industrial and Enterprise Systems Engineering at the **University of Illinois Urbana-Champaign**. Previously, I was a Principal Researcher at the University of Chicago Booth School of Business, working with [Baris Ata](https://www.chicagobooth.edu/faculty/directory/a/baris-ata), and an Applied Scientist II at [Amazon](https://www.amazon.com). I received my Ph.D. in Statistics from Cornell University, where I was advised by [Jim Dai](https://people.orie.cornell.edu/jdai/).
 
+### Research
 
-I am looking for Ph.D. students to work on problems in two broad areas: (1) high-dimensional stochastic control, combining stochastic modeling and deep-learning-based computational methods; and (2) queueing theory and stochastic processing networks, with an emphasis on heavy-traffic analysis and stochastic process theory. A strong mathematical background is a plus.
+My research focuses on **stochastic modeling and control of complex service systems**, with an emphasis on **queueing theory, stochastic networks, and high-dimensional control**. I study steady-state behavior and dynamic control, particularly in heavy-traffic regimes, using stochastic-process theory and computational methods. Applications include dynamic matching, data centers, and LLM serving systems.
 
+### Ph.D. Opportunities
+
+I am looking for Ph.D. students interested in **high-dimensional stochastic control** or **queueing theory and stochastic processing networks**. Current research directions include deep-learning-based computational methods for high-dimensional control and heavy-traffic analysis of queueing networks. A strong mathematical background is a plus. Please feel free to reach out if you are interested.
