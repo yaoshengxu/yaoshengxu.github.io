@@ -9,22 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-**Working papers**
-
-* Baris Ata and Yaosheng Xu. <br>
-*Dynamic Control of a Stochastic Matching System in Heavy Traffic: An Effective Computational Method for High-Dimensional Problems.*<br>
-Under review at **Operations Research**. [Link](https://arxiv.org/abs/2509.00809)
-
-* Yaosheng Xu.<br>
-  Explicit Steady-State Approximations for Parallel Server Systems with Heterogeneous Servers.*<br>
-Under review at **Operations Research**. [Link](https://arxiv.org/abs/2406.04203)
+**Publications**
 
 * J.G. Dai, Peter Glynn and Yaosheng Xu.<br>
 *Multi-scale heavy traffic steady-state convergence in generalized Jackson network.*<br>
-Accepted at **Operations Research**. [Link](https://arxiv.org/abs/2304.01499)
-
-
-**Publications**
+**Operations Research** 74(4):2231-2248, 2026. [Link](https://arxiv.org/abs/2304.01499)
 
 * J.G. Dai, Jin Guang and Yaosheng Xu. <br>
 *Steady-State Convergence of the Continuous-Time Routing System with General Distributions in Heavy Traffic.*<br>
@@ -38,6 +27,18 @@ Accepted at **Operations Research**. [Link](https://arxiv.org/abs/2304.01499)
 * Mondher Bellalah, Yaosheng Xu, Detao Zhang.<br>
 *Intertemporal optimal portfolio choice based on labor income within shadow costs of incomplete information and short sales.*<br>
 **Annals of Operations Research**, 281: 397–422, 2019. [Link](https://link.springer.com/article/10.1007/s10479-018-2901-4)
+
+
+**Working papers**
+
+* Baris Ata and Yaosheng Xu. <br>
+*Dynamic Control of a Stochastic Matching System in Heavy Traffic: An Effective Computational Method for High-Dimensional Problems.*<br>
+Under review. [Link](https://arxiv.org/abs/2509.00809)
+
+* Yaosheng Xu.<br>
+  Explicit Steady-State Approximations for Parallel Server Systems with Heterogeneous Servers.*<br>
+Under review. [Link](https://arxiv.org/abs/2406.04203)
+
 
 
 
