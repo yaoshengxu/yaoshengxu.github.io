@@ -18,7 +18,11 @@ Education
 
 Work experience
 ======
-* Principal researcher. 06/2024 – present
+
+* Assistant Professor. 08/2026 – present
+  * Department of Industrial and Enterprise Systems Engineering, University of Illinois Urbana-Champaign.
+    
+* Principal researcher. 06/2024 – 08/2026
   * University of Chicago, Booth School of Business. Full-time.
 
 * Applied Scientist. 08/2022 – 05/2024
@@ -30,13 +34,13 @@ Work experience
 Publications and Preprints
 ======
 * Baris Ata and Yaosheng Xu. 
-Dynamic Control of a Stochastic Matching System in Heavy Traffic: An Effective Computational Method for High-Dimensional Problems. Under review at **Management Science**. [Link](https://arxiv.org/abs/2509.00809)
+Dynamic Control of a Stochastic Matching System in Heavy Traffic: An Effective Computational Method for High-Dimensional Problems. Under review. [Link](https://arxiv.org/abs/2509.00809)
 
 * Yaosheng Xu.
-Explicit Steady-State Approximations for Parallel Server Systems with Heterogeneous Servers. Under review at **Operations Research**. [Link](https://arxiv.org/abs/2406.04203)
+Explicit Steady-State Approximations for Parallel Server Systems with Heterogeneous Servers. Under review. [Link](https://arxiv.org/abs/2406.04203)
 
 * J.G. Dai, Peter Glynn and Yaosheng Xu.
-Multi-scale heavy traffic steady-state convergence in generalized Jackson network. Accepted at **Operations Research**. [Link](https://arxiv.org/abs/2304.01499)
+Multi-scale heavy traffic steady-state convergence in generalized Jackson network. **Operations Research** 74(4):2231-2248, 2026. [Link](https://arxiv.org/abs/2304.01499)
 
 * Jin Guang, Yaosheng Xu, and J. G. Dai. 
 Steady-State Convergence of the Continuous-Time Routing System with General Distributions in Heavy Traffic. **ACM Sigmetrics 2025**. 9(1): 1–29.  [Link](https://dl.acm.org/doi/10.1145/3711703)
@@ -61,6 +65,7 @@ Dynamic Dispatch and Relocation Control for Ride-Hailing Systems Incorporating T
 Talks
 ======
 
+* INFORMS Annual meeting. Atlanta, GA. October 25-29, 2025.
 * INFORMS APS Conference. Atlanta, GA. June 30- July 3, 2025.
 * INFORMS Annual meeting. Seattle, WA. October 20-23, 2024.
 * INFORMS Annual meeting. Anaheim, CA. October 24-27, 2021.
@@ -68,18 +73,18 @@ Talks
 
 Research Interests and Skills
 ======
-* Operations Research and Management
-  * Stochastic Processing Networks, Dynamic Matching in High Dimensions, Stochastic Diffusion Control, Queueing Theory,  Steady-State Performance Analysis, Multi-Scale Heavy Traffic, Load Balancing Systems. 
-
+* Operations Research
+  * Stochastic Modeling and Control, Dynamic Matching, AI-driven Diffusion Control, Stochastic Processing Networks, Queueing Theory, Multi-Scale Heavy Traffic, Load-Balancing Systems, LLM Inference.
+    
 * Statistics and Data Science
-  * High-Dimensional Statistics, Multivariate Analysis, Causal Inference, Model Selection and Regularization, Experimental Design.
+  * 	High-Dimensional Statistics, Multivariate Analysis, Causal Inference, Model Selection and Regularization, Experimental Design.
     
 * Programming Languages
   * Python, C++, R, Matlab
     
 Teaching
 ======
-Supervised courses as Teaching Assistant at Cornell University
+Teaching Assistant, Cornell University
 * STSCI/BTRY 3080: Probability Models and Inference
 * ORIE 3510/5510: Introduction to Engineering Stochastic Processes 
 * STSCI 4740: Data Mining and Machine Learning  
