@@ -7,5 +7,4 @@ redirect_from:
   - /markdown.html
 ---
 
-yx433 (at) cornell.edu
-Yaosheng.Xu (at) chicagobooth.edu
+ysxu (at) illinois.edu
