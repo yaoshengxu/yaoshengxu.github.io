@@ -14,4 +14,4 @@ My research focuses on **stochastic modeling and control of complex service syst
 
 ### Ph.D. Opportunities
 
-I am looking for Ph.D. students in two broad areas: high-dimensional stochastic control and queueing theory and stochastic processing networks. Please feel free to reach out if you are interested.
+I am looking for graduate students in two broad areas: high-dimensional stochastic control and queueing theory and stochastic processing networks. Please feel free to reach out if you are interested.
