@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in the Department of Industrial and Enterprise Systems Engineering at the **University of Illinois Urbana-Champaign**. Previously, I was a Principal Researcher at the University of Chicago Booth School of Business, working with [Baris Ata](https://www.chicagobooth.edu/faculty/directory/a/baris-ata). I received my Ph.D. in Statistics from Cornell University, where I was advised by [Jim Dai](https://people.orie.cornell.edu/jdai/). Before joining Booth, I worked as an Applied Scientist at [Amazon](https://www.amazon.com).
+I am an Assistant Professor in the Department of Industrial and Enterprise Systems Engineering at the **University of Illinois Urbana-Champaign**. Previously, I was a Principal Researcher at the University of Chicago Booth School of Business, where I worked with [Baris Ata](https://www.chicagobooth.edu/faculty/directory/a/baris-ata). I received my Ph.D. in Statistics from Cornell University, where I was advised by [Jim Dai](https://people.orie.cornell.edu/jdai/). Before joining Booth, I worked as an Applied Scientist at [Amazon](https://www.amazon.com).
 
-My research focuses on **stochastic modeling and control of large-scale service systems**, with an emphasis on queueing theory, stochastic networks, and high-dimensional control. I study steady-state behavior and dynamic control, particularly in heavy-traffic regimes, using stochastic-process theory and computational methods. Applications include dynamic matching, data centers, and LLM inference systems.
+My research focuses on **stochastic modeling and control of large-scale service systems**, with an emphasis on queueing theory, stochastic networks, and high-dimensional control. I study steady-state behavior and dynamic policy design, particularly in heavy-traffic regimes, using stochastic process theory, scalable computational methods, and machine learning. My research has applications in dynamic matching, data centers, and LLM inference systems, with broader connections to resource allocation, scheduling, and control in computing and communication networks.
 
 ### Ph.D. Opportunities
 
